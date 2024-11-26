@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-token = "5774874510:AAErU492OLuM0xHd8dr_Q98l_bLHSYt67aU"
+token = "5774874510:AAHeS9R5uYQIYk4u-uFatiilelvBZ_3YMO8"
 bot = telebot.TeleBot(token)
 
 # Dictionary to store user IDs with their respective page numbers
